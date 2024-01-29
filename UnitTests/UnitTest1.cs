@@ -1,15 +1,23 @@
+using DroneMagnus;
+using Microsoft.VisualStudio.TestPlatform.TestHost;
+
 namespace UnitTests;
 
+[TestFixture]
 public class Tests
 {
-    [SetUp]
-    public void Setup()
-    {
-    }
-
+    
     [Test]
-    public void Test1()
+    public void AddTest()
     {
-        Assert.Pass();
+        NumberCalc nc = new NumberCalc();
+        Assert.That(16, Is.EqualTo(nc.AddedNumbers(6, 10)));
+    }
+    
+    [Test]
+    public void RemoveTest()
+    {
+        NumberCalc nc = new NumberCalc();
+        Assert.That(4, Is.EqualTo(nc.RemoveNumbers(10, 6)));
     }
 }

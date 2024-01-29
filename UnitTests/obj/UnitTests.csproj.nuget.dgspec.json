@@ -4,14 +4,14 @@
     "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\UnitTests\\UnitTests.csproj": {
+    "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\DroneMagnus\\DroneMagnus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\UnitTests\\UnitTests.csproj",
-        "projectName": "UnitTests",
-        "projectPath": "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\DroneMagnus\\DroneMagnus.csproj",
+        "projectName": "DroneMagnus",
+        "projectPath": "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\DroneMagnus\\DroneMagnus.csproj",
         "packagesPath": "C:\\Users\\MadMe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\DroneMagnus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MadMe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,65 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\UnitTests\\UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\UnitTests\\UnitTests.csproj",
+        "projectName": "UnitTests",
+        "projectPath": "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\UnitTests\\UnitTests.csproj",
+        "packagesPath": "C:\\Users\\MadMe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MadMe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\DroneMagnus\\DroneMagnus.csproj": {
+                "projectPath": "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\DroneMagnus\\DroneMagnus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -46,7 +105,7 @@
             },
             "NUnit": {
               "target": "Package",
-              "version": "[3.13.3, )"
+              "version": "[4.0.1, )"
             },
             "NUnit.Analyzers": {
               "target": "Package",

@@ -1,0 +1,15 @@
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\bin\Debug\net7.0\DroneMagnus.exe
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\bin\Debug\net7.0\DroneMagnus.deps.json
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\bin\Debug\net7.0\DroneMagnus.runtimeconfig.json
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\bin\Debug\net7.0\DroneMagnus.dll
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\bin\Debug\net7.0\DroneMagnus.pdb
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\obj\Debug\net7.0\DroneMagnus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\obj\Debug\net7.0\DroneMagnus.AssemblyInfoInputs.cache
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\obj\Debug\net7.0\DroneMagnus.AssemblyInfo.cs
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\obj\Debug\net7.0\DroneMagnus.csproj.CoreCompileInputs.cache
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\obj\Debug\net7.0\DroneMagnus.sourcelink.json
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\obj\Debug\net7.0\DroneMagnus.dll
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\obj\Debug\net7.0\refint\DroneMagnus.dll
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\obj\Debug\net7.0\DroneMagnus.pdb
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\obj\Debug\net7.0\DroneMagnus.genruntimeconfig.cache
+C:\Users\MadMe\RiderProjects\DroneMagnus\DroneMagnus\obj\Debug\net7.0\ref\DroneMagnus.dll
