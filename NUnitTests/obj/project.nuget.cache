@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "gBelX96eGsYEaUGT7uMmQzalPErIGkoJUOcWFkvGEJUpS7Fvfdo5m+CIfF5+R/h4X2SM3WToJn5H7gUW9Td1xQ==",
-  "success": false,
+  "dgSpecHash": "/LJl4kKRLJmRt63zrkOzAbmV2AX2s0pOpLwwDZEX/fEHrzUCEjwBAfMmNvSZ7P+ywKGMBEDhviLoFtBom8/XFQ==",
+  "success": true,
   "projectFilePath": "C:\\Users\\MadMe\\RiderProjects\\DroneMagnus\\NUnitTests\\NUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MadMe\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
@@ -16,20 +16,7 @@
     "C:\\Users\\MadMe\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\MadMe\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
     "C:\\Users\\MadMe\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
-    "C:\\Users\\MadMe\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
-    "C:\\Users\\MadMe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\MadMe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\MadMe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+    "C:\\Users\\MadMe\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project DroneMagnus is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project DroneMagnus supports: net7.0 (.NETCoreApp,Version=v7.0)",
-      "libraryId": "DroneMagnus",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }
